@@ -1,6 +1,5 @@
 body { 
     margin: 0; 
-    height: 100vh; 
     display: flex; 
     flex-direction: column; 
     justify-content: center; 
@@ -40,13 +39,43 @@ p {
 } 
  
 .progress-main { 
-    width: 0.1%;  
+    width: 0%;  
     height: 100%; 
     background-color: #3498db; 
 }
 
-.progress-m1-1 { 
-    width: 1.5%;  
+.progress-m1 { 
+    width: 0%;  
+    height: 100%; 
+    background-color: #3498db; 
+}
+
+.progress-m2 { 
+    width: 0%;  
+    height: 100%; 
+    background-color: #3498db; 
+}
+
+.progress-m3 { 
+    width: 0%;  
+    height: 100%; 
+    background-color: #3498db; 
+}
+
+.progress-m4 { 
+    width: 0%;  
+    height: 100%; 
+    background-color: #3498db; 
+}
+
+.progress-m5 { 
+    width: 0%;  
+    height: 100%; 
+    background-color: #3498db; 
+}
+
+.progress-m6 { 
+    width: 0%;  
     height: 100%; 
     background-color: #3498db; 
 }
